@@ -1,0 +1,30 @@
+*{
+    background-color: grey;"
+
+}
+h1{
+    color: red;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+}
+nav ul li{
+    margin-right: 30px;
+    font size: 25px;
+    color: white;
+}
+nav ul li a{
+    text-decoration: overline underline;
+    color: #fde047;
+}
+
+footer .socialmedia{
+    display: inline-block;
+    padding: 15px;
+    font-size: 40px;
+    font-weight: solid;
+    color: #fde047;
+    width: 70%;
+    margin: 0 100px;
+}
